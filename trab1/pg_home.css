@@ -106,6 +106,15 @@ body {
 	box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
 }
 
+#main .main-container-img {
+	margin-top: 5%;
+    margin-bottom: 5%;
+    opacity: 1;
+	margin-left: 1%;
+    width: 300px;
+    height: 200px;
+}
+
 #main .main-container-background {
 	position: relative;
 	width: 100%;
